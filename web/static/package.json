@@ -20,7 +20,7 @@
     "codemirror": "^5.47.0",
     "dirrty": "^1.0.0",
     "fullcalendar": "^3.10.0",
-    "jquery": "^3.4",
+    "jquery": "^3.5",
     "leaflet": "^1.5.1",
     "lodash": "^4.17.11",
     "material-icons": "^0.3.1",
